@@ -1,0 +1,14 @@
+{
+  "name": "medshorts",
+  "version": "1.0.0",
+  "description": "Medshorts app",
+  "main": "swiperCon.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
